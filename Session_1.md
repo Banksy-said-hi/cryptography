@@ -1,4 +1,3 @@
-# cryptography 1
 # 🔐 Cryptography 101: From XOR to Stream Ciphers
 
 Welcome to a digest of foundational cryptography concepts. This guide breaks down how modern encryption (specifically **Stream Ciphers**) evolved from the mathematically perfect **One-Time Pad**.
