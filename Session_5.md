@@ -1,9 +1,3 @@
-Here is the complete documentation ready for your GitHub repository. It synthesizes everything we discussed—from the theoretical math of Shannon to the bit-flipping dangers of real-world banking attacks.
-
-You can copy and paste the block below directly into a `README.md` or a `.md` file in your repo.
-
------
-
 # Stream Ciphers & Secure PRGs: From Theory to Practice
 
 ## 1\. Introduction: The Need for Speed
